@@ -8,8 +8,9 @@
 ---
 
 ## 🌐 Socials:
-- LinkedIn: (add your link)
-- GitHub: (your profile link)
+- LinkedIn: www.linkedin.com/in/rania-gasmi1
+
+- GitHub: https://github.com/raniagasmi
 
 ---
 
