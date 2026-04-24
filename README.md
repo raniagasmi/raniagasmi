@@ -43,9 +43,4 @@ OpenStack | Docker | Kubernetes | CI/CD Pipelines | Cloud Infrastructure Design 
 
 ---
 
-## 💡 Motto:
-> "Design simple. Scale smart. Automate everything possible."
-
----
-
 ⭐ Thanks for visiting my profile!
